@@ -12,6 +12,7 @@
 						<ul class="nav navbar-nav navbar-right">
 							<li><a href="signup.php"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
 							<li><a href="#myModal" role="button" data-toggle="modal"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+							<li><a href="news.php"><span class="glyphicon glyphicon-tasks"></span> News</a></li>
 							<li><a href="about.php"><span class="glyphicon glyphicon-tasks"></span> About Us</a></li>
 							<li><a href="contact.php"><span class="glyphicon glyphicon-phone"></span> Contact Us</a></li>
 						</ul>
